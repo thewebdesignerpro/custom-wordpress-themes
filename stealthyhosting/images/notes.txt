@@ -1,0 +1,20 @@
+here are good choices for the stock images:
+
+http://us.fotolia.com/id/50992408
+http://us.fotolia.com/id/32210479
+http://us.fotolia.com/id/7720721
+http://us.fotolia.com/id/35269865
+http://us.fotolia.com/id/10559234
+http://us.fotolia.com/id/54783481
+http://us.fotolia.com/id/45334353
+http://us.fotolia.com/id/51372893
+http://us.fotolia.com/id/52029674
+http://us.fotolia.com/id/36082310
+http://us.fotolia.com/id/35775709
+
+we need 3 slideshow images, 1 each for hosting, servers, and colocation. size should be at least 960 width x 320 height.
+
+we also need 3 featured images, those 3 boxes below the slideshow area. also 1 each for hosting, servers, and colocation. size should be at least 300 width x 200 height.
+
+
+
